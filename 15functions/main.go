@@ -4,7 +4,7 @@ import "fmt"
 
 /*
 Notes:
-1. In Golang you are allowed to write a function within a function.
+1. In Golang you are not allowed to write a function within a function.
 2. In Golang you can also create a func with no name, but immediately invoke it. e.g :
 
 func (){
